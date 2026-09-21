@@ -11,7 +11,7 @@ I study Computer Science at Atma Ram Sanatan Dharma College, University of Delhi
 ## What I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,fastapi,sklearn,postgres,sqlite,docker,nextjs,react,tailwind,git,githubactions,vercel&perline=7&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Cfastapi%2Csklearn%2Cpostgres%2Csqlite%2Cdocker%2Cnextjs%2Creact%2Ctailwind%2Cgit%2Cgithubactions%2Cvercel&perline=7&theme=dark">
   <img alt="Python, TypeScript, JavaScript, FastAPI, scikit-learn, PostgreSQL, SQLite, Docker, Next.js, React, Tailwind CSS, Git, GitHub Actions, Vercel" src="https://skillicons.dev/icons?i=python,ts,js,fastapi,sklearn,postgres,sqlite,docker,nextjs,react,tailwind,git,githubactions,vercel&perline=7&theme=light">
 </picture>
 
